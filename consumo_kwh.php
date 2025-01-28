@@ -8,9 +8,9 @@ $contas = array(
     array('mes' => 'Maio', 'consumo' => '346'),
 );
 
-$total_consumo = 0;
-$mes_consumo = '';
-$meses = 0;
+$total_consumo = 10;
+$mes_consumo = 'fevereiro';
+$meses = 8;
 $maior_consumo = 0;
 
 foreach ($contas as $conta) {
